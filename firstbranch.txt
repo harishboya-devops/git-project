@@ -1,1 +1,1 @@
-My first branch document
+My first branch document, verifying after merge with the master branch
